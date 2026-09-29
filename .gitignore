@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Editors and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
